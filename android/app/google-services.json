@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "527166903572",
+    "firebase_url": "https://thechoom-b1953.firebaseio.com",
+    "project_id": "thechoom-b1953",
+    "storage_bucket": "thechoom-b1953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527166903572:android:74efd730606cf5ecab1e01",
+        "android_client_info": {
+          "package_name": "com.swerve.thechoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527166903572-o50omp8jcjsla99rjiq4d2qag7qdol9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzscAm-GfHN_yATIY_eTxBMDx5CyRs-cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527166903572-o50omp8jcjsla99rjiq4d2qag7qdol9g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527166903572-f57g0vb20h1jvguq61q6k80i30f7hsah.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swerve.thechoom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

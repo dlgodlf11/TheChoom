@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>527166903572-issnc087gl46st87raa26trr9mj3stps.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.527166903572-issnc087gl46st87raa26trr9mj3stps</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>527166903572-2jhecvpaoviu1pjknor7u1ji33205ki4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDs4z1ZIQjW4vtLSFTsCCEv_yDEbzXoo4Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527166903572</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.swerve.thechoom2021</string>
+	<key>PROJECT_ID</key>
+	<string>thechoom-b1953</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thechoom-b1953.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527166903572:ios:96a1ccb586d31630ab1e01</string>
+	<key>DATABASE_URL</key>
+	<string>https://thechoom-b1953.firebaseio.com</string>
+</dict>
+</plist>
